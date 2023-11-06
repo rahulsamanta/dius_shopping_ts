@@ -1,0 +1,17 @@
+[
+  {
+    "type": "ThreeForTwoDiscount",
+    "sku": "atv"
+  },
+  {
+    "type": "BulkDiscount",
+    "sku": "ipd",
+    "threshold": 4,
+    "discountedPrice": 499.99
+  },
+  {
+    "type": "BundleDiscount",
+    "sku": "mbp",
+    "freeSku": "vga"
+  }
+]
